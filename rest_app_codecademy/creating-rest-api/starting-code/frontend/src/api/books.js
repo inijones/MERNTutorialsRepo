@@ -1,5 +1,5 @@
 // TODO: Import API_ENDPOINT
-import { API_ENDPOINT } from "./api/index.js";
+import { API_ENDPOINT } from "./index.js";
 
 
 // TODO: Create the addNewBook function that takes in newTitle, newStart, and newEnd as arguments. Inside the function, create a POST request for the new book. Store the response as a JSON in a variable called newBook and return it at the end of the function.
